@@ -22,7 +22,7 @@ The training data consists of:
 - **Sequence Length**: Variable lengths (typically 2000-3500 base pairs)
 
 The dataset generation scripts are located in `train/dataset_generation/`:
-- `generate_dataset_20260107.py`: Main dataset generator with complex sequence assembly
+- `generate_dataset.py`: Main dataset generator with complex sequence assembly
 - `generate_dataset.py`: Base dataset generation utilities
 - `generator_complex.py`: Complex chromosome assembly generator
 
