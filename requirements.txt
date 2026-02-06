@@ -1,0 +1,9 @@
+-r train/verl/requirements.txt
+
+# Extra dependencies used outside train/verl
+biopython
+deepconf
+matplotlib
+openai
+torch
+vllm
