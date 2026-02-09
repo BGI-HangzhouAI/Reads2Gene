@@ -171,6 +171,6 @@ This project is primarily intended to support genomics research, providing resea
 - The reward functions can be customized in `RL/reward_function_*.py` files
 
 ## 9. Contact
-For project-related questions, please raise an [issue]() or contact the project maintainer at xxx@zhejianglab.org.
+For project-related questions, please raise an [issue]() or contact the project maintainer at huyuebei24@mails.ucas.ac.cn.
 
-For general inquiries, you are also welcome to contact us at opensource@zhejianglab.org.
+For general inquiries, you are also welcome to contact us at huyuebei24@mails.ucas.ac.cn.
